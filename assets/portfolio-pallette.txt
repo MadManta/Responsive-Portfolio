@@ -1,0 +1,15 @@
+color palette for portfolio:
+
+background: light teal #91AEA7
+
+text: black #000000
+
+dark teal: #1B9372
+
+brown: 7C5F38
+
+dark magenta: DE1597
+
+pink: F170C3
+
+bright teal: #8EFCEB
